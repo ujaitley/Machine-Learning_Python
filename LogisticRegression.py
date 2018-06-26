@@ -28,3 +28,8 @@ def main():
  
 if __name__ == "__main__":
     main()                                    
+
+'''Output:
+Train Accuracy ::  0.977911646586
+Test Accuracy ::  0.981599197056
+'''
